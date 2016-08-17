@@ -2,13 +2,13 @@
 
 2 клас
 =============================================
-## <i>35 годин</i> (1 година на тиждень)
+## *35 годин* (1 година на тиждень)
 
 **Зміст розділу:**
 * [Інформація](nformatzyja.md)
 * [Комп’ютери та інші пристрої](kompjutery.md)
 * [Інтернет](nternet.md)   
-* [Графічна інформація](graphychna_nformathyja.md) 
+* [Графіка](graphychna_nformathyja.md) 
 * [Команди та виконавці](komandy.md)
 
 <div class="js-hypercomments-container">
